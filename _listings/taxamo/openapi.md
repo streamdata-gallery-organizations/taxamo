@@ -1,6 +1,6 @@
 ---
 swagger: "2.0"
-x-collection-name: taxamo
+x-collection-name: Taxamo
 x-complete: 1
 info:
   title: Taxamo
